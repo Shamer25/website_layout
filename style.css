@@ -1,0 +1,23 @@
+h1{
+    color: rgb(221, 109, 128);
+    font-size: 80px;
+}
+#section{
+    color: yellow;
+    font-size: 50px;
+}
+ul{ color: green;
+    font-size: 30px;
+}
+p{
+    color: blue;
+    font-size: 20px;
+}
+/* #heading {
+    color: pink;
+    font-size: 80px;
+} */
+
+.course{
+    color: violet
+}
